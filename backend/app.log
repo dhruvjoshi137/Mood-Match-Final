@@ -1,0 +1,1279 @@
+2025-07-02 23:49:11,289 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-02 23:49:12,918 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-02 23:49:12,919 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-02 23:53:04,026 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-02 23:53:05,162 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-02 23:53:05,171 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-02 23:53:25,107 - INFO - 127.0.0.1 - - [02/Jul/2025 23:53:25] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-07 21:04:50,581 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:04:51,373 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 21:04:51,373 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 21:04:51,375 - INFO -  * Restarting with stat
+2025-07-07 21:05:04,023 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:05:04,784 - WARNING -  * Debugger is active!
+2025-07-07 21:05:04,789 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:06:39,836 - INFO - 127.0.0.1 - - [07/Jul/2025 21:06:39] "[33mOPTIONS / HTTP/1.1[0m" 404 -
+2025-07-07 21:07:17,324 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:07:18,229 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 21:07:18,229 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 21:07:18,233 - INFO -  * Restarting with stat
+2025-07-07 21:07:30,489 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:07:31,261 - WARNING -  * Debugger is active!
+2025-07-07 21:07:31,267 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:09:02,623 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:09:03,388 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 21:09:03,388 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 21:09:03,390 - INFO -  * Restarting with stat
+2025-07-07 21:09:15,604 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:09:16,380 - WARNING -  * Debugger is active!
+2025-07-07 21:09:16,386 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:10:42,687 - INFO - 127.0.0.1 - - [07/Jul/2025 21:10:42] "[33mOPTIONS / HTTP/1.1[0m" 404 -
+2025-07-07 21:12:25,689 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:12:26,474 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 21:12:26,474 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 21:12:26,476 - INFO -  * Restarting with stat
+2025-07-07 21:12:39,192 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:12:39,954 - WARNING -  * Debugger is active!
+2025-07-07 21:12:39,960 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:12:40,601 - INFO - 127.0.0.1 - - [07/Jul/2025 21:12:40] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-07 21:12:47,309 - INFO - 127.0.0.1 - - [07/Jul/2025 21:12:47] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-07 21:15:08,526 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:15:09,321 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 21:15:09,321 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 21:15:09,323 - INFO -  * Restarting with stat
+2025-07-07 21:15:21,625 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:15:22,429 - WARNING -  * Debugger is active!
+2025-07-07 21:15:22,434 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:17:08,201 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\test_flask.py', reloading
+2025-07-07 21:17:09,492 - INFO -  * Restarting with stat
+2025-07-07 21:17:24,770 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:17:25,578 - WARNING -  * Debugger is active!
+2025-07-07 21:17:25,587 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:17:26,630 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\test_flask.py', reloading
+2025-07-07 21:17:27,825 - INFO -  * Restarting with stat
+2025-07-07 21:17:41,922 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:17:42,690 - WARNING -  * Debugger is active!
+2025-07-07 21:17:42,696 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:20:14,124 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:20:14,905 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 21:20:14,905 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 21:20:14,907 - INFO -  * Restarting with stat
+2025-07-07 21:20:28,090 - WARNING - training_results.json not found, using default threshold 0.5
+2025-07-07 21:20:28,960 - WARNING -  * Debugger is active!
+2025-07-07 21:20:28,965 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:26:04,386 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\app.py', reloading
+2025-07-07 21:26:05,639 - INFO -  * Restarting with stat
+2025-07-07 21:26:27,906 - WARNING -  * Debugger is active!
+2025-07-07 21:26:27,911 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:27:10,686 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 21:27:10,687 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 21:27:10,688 - INFO -  * Restarting with stat
+2025-07-07 21:27:23,851 - WARNING -  * Debugger is active!
+2025-07-07 21:27:23,856 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:29:23,110 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 21:29:23,110 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 21:29:23,112 - INFO -  * Restarting with stat
+2025-07-07 21:29:35,742 - WARNING -  * Debugger is active!
+2025-07-07 21:29:35,748 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 21:34:42,202 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 21:34:42,203 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 21:34:42,204 - INFO -  * Restarting with stat
+2025-07-07 21:34:54,878 - WARNING -  * Debugger is active!
+2025-07-07 21:34:54,883 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 22:01:49,239 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 22:01:49,239 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 22:01:49,241 - INFO -  * Restarting with stat
+2025-07-07 22:01:57,371 - WARNING -  * Debugger is active!
+2025-07-07 22:01:57,378 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 22:03:49,575 - INFO - 127.0.0.1 - - [07/Jul/2025 22:03:49] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-07 22:06:21,256 - ERROR - Server error: 'samples'
+2025-07-07 22:06:21,258 - INFO - 127.0.0.1 - - [07/Jul/2025 22:06:21] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-07 22:07:34,547 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-07 22:07:35,353 - INFO -  * Restarting with stat
+2025-07-07 22:07:44,023 - WARNING -  * Debugger is active!
+2025-07-07 22:07:44,029 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 22:09:52,870 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-07 22:09:53,640 - INFO -  * Restarting with stat
+2025-07-07 22:10:02,057 - WARNING -  * Debugger is active!
+2025-07-07 22:10:02,063 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 22:10:19,974 - ERROR - Server error: "'samples' key missing in merged_spec for emotion 'JOY/HAPPINESS'. Available keys: ['fonts', 'font_color', 'font_bg_color', 'colors', 'images_keywords', 'website_ui', 'pattern', 'layout_style', 'moodboard', 'font_paths', 'image_paths', 'pattern_path']"
+2025-07-07 22:10:19,976 - INFO - 127.0.0.1 - - [07/Jul/2025 22:10:19] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-07 22:12:39,874 - INFO - Input: i feel happy and excited | Source: Keyword Match | Mapped: JOY/HAPPINESS | Parsed: {'colors': [], 'negated_colors': [], 'visuals': [], 'patterns': [], 'typography': [], 'layout_preferences': {}}
+2025-07-07 22:12:39,875 - INFO - 127.0.0.1 - - [07/Jul/2025 22:12:39] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-07 22:15:30,289 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 22:15:30,289 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 22:15:30,291 - INFO -  * Restarting with stat
+2025-07-07 22:15:38,366 - WARNING -  * Debugger is active!
+2025-07-07 22:15:38,372 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 22:16:05,031 - INFO - 127.0.0.1 - - [07/Jul/2025 22:16:05] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-07 22:20:37,889 - INFO - 127.0.0.1 - - [07/Jul/2025 22:20:37] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-07 22:20:55,312 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-07 22:20:55,313 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-07 22:20:55,315 - INFO -  * Restarting with stat
+2025-07-07 22:21:03,354 - WARNING -  * Debugger is active!
+2025-07-07 22:21:03,359 - INFO -  * Debugger PIN: 488-421-171
+2025-07-07 22:21:26,014 - INFO - 127.0.0.1 - - [07/Jul/2025 22:21:26] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:33:07,992 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-21 12:33:07,992 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-21 12:33:07,995 - INFO -  * Restarting with stat
+2025-07-21 12:33:16,182 - WARNING -  * Debugger is active!
+2025-07-21 12:33:16,189 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 12:34:06,472 - INFO - 127.0.0.1 - - [21/Jul/2025 12:34:06] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-21 12:34:06,558 - INFO - 127.0.0.1 - - [21/Jul/2025 12:34:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-21 12:34:16,157 - INFO - 192.168.1.5 - - [21/Jul/2025 12:34:16] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-21 12:34:16,229 - INFO - 192.168.1.5 - - [21/Jul/2025 12:34:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-21 12:34:18,384 - INFO - 192.168.1.5 - - [21/Jul/2025 12:34:18] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-21 12:35:53,200 - INFO - 127.0.0.1 - - [21/Jul/2025 12:35:53] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-21 12:36:01,948 - INFO - 192.168.1.5 - - [21/Jul/2025 12:36:01] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-21 12:36:03,704 - INFO - 192.168.1.5 - - [21/Jul/2025 12:36:03] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-21 12:36:03,851 - INFO - 192.168.1.5 - - [21/Jul/2025 12:36:03] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-21 12:36:04,003 - INFO - 192.168.1.5 - - [21/Jul/2025 12:36:04] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-21 12:36:04,150 - INFO - 192.168.1.5 - - [21/Jul/2025 12:36:04] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-21 12:37:58,517 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-21 12:37:58,517 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-21 12:37:58,519 - INFO -  * Restarting with stat
+2025-07-21 12:38:06,872 - WARNING -  * Debugger is active!
+2025-07-21 12:38:06,878 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 12:38:12,243 - INFO - 192.168.1.5 - - [21/Jul/2025 12:38:12] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:38:31,914 - INFO - 192.168.1.5 - - [21/Jul/2025 12:38:31] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:38:48,040 - INFO - 192.168.1.5 - - [21/Jul/2025 12:38:48] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:43:07,467 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-21 12:43:07,469 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-21 12:43:07,471 - INFO -  * Restarting with stat
+2025-07-21 12:43:15,642 - WARNING -  * Debugger is active!
+2025-07-21 12:43:15,648 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 12:43:28,963 - INFO - 192.168.1.5 - - [21/Jul/2025 12:43:28] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:45:51,668 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\app.py', reloading
+2025-07-21 12:45:52,442 - INFO -  * Restarting with stat
+2025-07-21 12:46:00,910 - WARNING -  * Debugger is active!
+2025-07-21 12:46:00,915 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 12:46:17,302 - INFO - 192.168.1.5 - - [21/Jul/2025 12:46:17] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:46:17,882 - INFO - Input: i am happy | Source: Keyword Match | Mapped: JOY/HAPPINESS | Parsed: {'colors': [], 'negated_colors': [], 'visuals': [], 'patterns': [], 'typography': [], 'layout_preferences': {}}
+2025-07-21 12:46:17,883 - INFO - 192.168.1.5 - - [21/Jul/2025 12:46:17] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:46:23,781 - INFO - 192.168.1.5 - - [21/Jul/2025 12:46:23] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:46:24,335 - INFO - Input: i am happy | Source: Keyword Match | Mapped: JOY/HAPPINESS | Parsed: {'colors': [], 'negated_colors': [], 'visuals': [], 'patterns': [], 'typography': [], 'layout_preferences': {}}
+2025-07-21 12:46:24,336 - INFO - 192.168.1.5 - - [21/Jul/2025 12:46:24] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:46:33,476 - INFO - 192.168.1.5 - - [21/Jul/2025 12:46:33] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:46:34,050 - INFO - Input: i am sad | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': [], 'negated_colors': [], 'visuals': [], 'patterns': [], 'typography': [], 'layout_preferences': {}}
+2025-07-21 12:46:34,051 - INFO - 192.168.1.5 - - [21/Jul/2025 12:46:34] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:46:38,608 - INFO - 192.168.1.5 - - [21/Jul/2025 12:46:38] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:46:39,191 - INFO - Input: i am sad | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': [], 'negated_colors': [], 'visuals': [], 'patterns': [], 'typography': [], 'layout_preferences': {}}
+2025-07-21 12:46:39,192 - INFO - 192.168.1.5 - - [21/Jul/2025 12:46:39] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:46:58,501 - INFO - 192.168.1.5 - - [21/Jul/2025 12:46:58] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:47:08,140 - INFO - Input: i am confused | Source: ML Label: confusion | Mapped: NEUTRAL/CLARITY | Parsed: {'colors': [], 'negated_colors': [], 'visuals': [], 'patterns': [], 'typography': [], 'layout_preferences': {}}
+2025-07-21 12:47:08,142 - INFO - 192.168.1.5 - - [21/Jul/2025 12:47:08] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:47:11,092 - INFO - Input: i am confused | Source: ML Label: confusion | Mapped: NEUTRAL/CLARITY | Parsed: {'colors': [], 'negated_colors': [], 'visuals': [], 'patterns': [], 'typography': [], 'layout_preferences': {}}
+2025-07-21 12:47:11,094 - INFO - 192.168.1.5 - - [21/Jul/2025 12:47:11] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:48:25,560 - INFO - 192.168.1.5 - - [21/Jul/2025 12:48:25] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:48:26,086 - INFO - Input: {
+  "text": "i feel happy and i love bright colors, geometric patterns, and bold visuals."
+} | Source: Keyword Match | Mapped: JOY/HAPPINESS | Parsed: {'colors': [], 'negated_colors': [], 'visuals': ['bright colors', 'geometric patterns', 'bold visuals'], 'patterns': ['geometric'], 'typography': [], 'layout_preferences': {}}
+2025-07-21 12:48:26,087 - INFO - 192.168.1.5 - - [21/Jul/2025 12:48:26] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:50:07,254 - INFO - 192.168.1.5 - - [21/Jul/2025 12:50:07] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:50:07,755 - ERROR - Server error: invalid literal for int() with base 16: 'bl'
+Traceback (most recent call last):
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\app.py", line 173, in analyze_emotion
+    output_path, session_log = generate_moodboard(parsed_data, mapped_emotion)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 235, in generate_moodboard
+    rgb = tuple(int(hex_code.lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 235, in <genexpr>
+    rgb = tuple(int(hex_code.lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 16: 'bl'
+
+2025-07-21 12:50:07,757 - INFO - 192.168.1.5 - - [21/Jul/2025 12:50:07] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-21 12:50:10,988 - ERROR - Server error: invalid literal for int() with base 16: 'bl'
+Traceback (most recent call last):
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\app.py", line 173, in analyze_emotion
+    output_path, session_log = generate_moodboard(parsed_data, mapped_emotion)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 235, in generate_moodboard
+    rgb = tuple(int(hex_code.lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 235, in <genexpr>
+    rgb = tuple(int(hex_code.lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 16: 'bl'
+
+2025-07-21 12:50:10,990 - INFO - 192.168.1.5 - - [21/Jul/2025 12:50:10] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-21 12:51:28,148 - INFO - 192.168.1.5 - - [21/Jul/2025 12:51:28] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:51:28,606 - ERROR - Server error: invalid literal for int() with base 16: 'wh'
+Traceback (most recent call last):
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\app.py", line 173, in analyze_emotion
+    output_path, session_log = generate_moodboard(parsed_data, mapped_emotion)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 235, in generate_moodboard
+    rgb = tuple(int(hex_code.lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 235, in <genexpr>
+    rgb = tuple(int(hex_code.lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 16: 'wh'
+
+2025-07-21 12:51:28,608 - INFO - 192.168.1.5 - - [21/Jul/2025 12:51:28] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-21 12:51:42,387 - INFO - 192.168.1.5 - - [21/Jul/2025 12:51:42] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 12:51:43,008 - INFO - Input: {
+  "text": "create a moodboard with #ffd700 and #1e90ff as the main colors, avoiding #ff0000. use abstract visuals, geometric patterns, bold modern typography, and a minimalistic layout with lots of  space."
+} | Source: Keyword Match | Mapped: POWER/ANGER | Parsed: {'colors': [], 'negated_colors': [], 'visuals': ['{\n  "text', 'a moodboard', 'the main colors', 'geometric patterns', 'bold modern typography', 'a minimalistic layout', 'lots', 'space'], 'patterns': ['abstract', 'geometric'], 'typography': ['bold modern typography'], 'layout_preferences': {'minimal': 'minimalist'}}
+2025-07-21 12:51:43,009 - INFO - 192.168.1.5 - - [21/Jul/2025 12:51:43] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:27:13,831 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:27:14,840 - INFO -  * Restarting with stat
+2025-07-21 13:27:25,014 - WARNING -  * Debugger is active!
+2025-07-21 13:27:25,021 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:27:32,085 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:27:32,828 - INFO -  * Restarting with stat
+2025-07-21 13:27:41,123 - WARNING -  * Debugger is active!
+2025-07-21 13:27:41,130 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:27:54,194 - INFO - 192.168.1.5 - - [21/Jul/2025 13:27:54] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:27:54,799 - INFO - Input: {
+  "text": "create a moodboard with #ffd700 and #1e90ff as the main colors, avoiding #ff0000. use abstract visuals, geometric patterns, bold modern typography, and a minimalistic layout with lots of white space."
+} | Source: Keyword Match | Mapped: POWER/ANGER | Parsed: {'colors': ['white'], 'negated_colors': [], 'visuals': ['{\n  "text', 'a moodboard', 'the main colors', 'geometric patterns', 'bold modern typography', 'a minimalistic layout', 'lots', 'white space'], 'patterns': ['abstract', 'geometric'], 'typography': ['bold modern typography'], 'layout_preferences': {'minimal': 'minimalist'}}
+2025-07-21 13:27:54,800 - INFO - 192.168.1.5 - - [21/Jul/2025 13:27:54] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:29:05,836 - INFO - 192.168.1.5 - - [21/Jul/2025 13:29:05] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:29:06,453 - INFO - Input: {
+  "text": "create a moodboard with #ffd700 and #1e90ff as the main colors, avoiding #ff0000. use abstract visuals, geometric patterns, bold modern typography, and a minimalistic layout with lots of white space."
+} | Source: Keyword Match | Mapped: POWER/ANGER | Parsed: {'colors': ['white'], 'negated_colors': [], 'visuals': ['{\n  "text', 'a moodboard', 'the main colors', 'geometric patterns', 'bold modern typography', 'a minimalistic layout', 'lots', 'white space'], 'patterns': ['abstract', 'geometric'], 'typography': ['bold modern typography'], 'layout_preferences': {'minimal': 'minimalist'}}
+2025-07-21 13:29:06,454 - INFO - 192.168.1.5 - - [21/Jul/2025 13:29:06] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:29:23,183 - INFO - 192.168.1.5 - - [21/Jul/2025 13:29:23] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:29:23,804 - INFO - Input: pure joy in color — sunflower yellow, coral pink, sky blue, and mint green. think laughter in the sun, picnic blankets, bubbles in the air, roller skates, and golden hour smiles | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': ['blue', 'coral pink', 'green', 'mint green', 'pink', 'sky blue', 'sunflower yellow', 'yellow'], 'negated_colors': [], 'visuals': ['pure joy', 'color', 'laughter', 'the sun', 'picnic blankets', 'roller skates', 'golden hour smiles'], 'patterns': [], 'typography': [], 'layout_preferences': {}}
+2025-07-21 13:29:23,805 - INFO - 192.168.1.5 - - [21/Jul/2025 13:29:23] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:38:53,714 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:38:54,470 - INFO -  * Restarting with stat
+2025-07-21 13:39:03,080 - WARNING -  * Debugger is active!
+2025-07-21 13:39:03,086 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:39:14,176 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:39:14,938 - INFO -  * Restarting with stat
+2025-07-21 13:39:23,269 - WARNING -  * Debugger is active!
+2025-07-21 13:39:23,274 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:44:12,176 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:44:12,936 - INFO -  * Restarting with stat
+2025-07-21 13:44:21,611 - WARNING -  * Debugger is active!
+2025-07-21 13:44:21,617 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:44:38,744 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:44:39,473 - INFO -  * Restarting with stat
+2025-07-21 13:44:47,868 - WARNING -  * Debugger is active!
+2025-07-21 13:44:47,875 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:45:22,079 - INFO - 192.168.1.5 - - [21/Jul/2025 13:45:22] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:45:22,242 - ERROR - Server error: 'spacy.tokens.doc.Doc' object has no attribute 'start'
+Traceback (most recent call last):
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\app.py", line 168, in analyze_emotion
+    parsed_data = parse_prompt(user_input)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 133, in parse_prompt
+    found_colors, negated_colors = adjust_negation_contrast(all_candidates, doc)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 85, in adjust_negation_contrast
+    if is_negated(span):
+       ^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 64, in is_negated
+    if span.start > 0 and span.doc[span.start - 1].lower_ in NEGATION_WORDS:
+       ^^^^^^^^^^
+AttributeError: 'spacy.tokens.doc.Doc' object has no attribute 'start'
+
+2025-07-21 13:45:22,244 - INFO - 192.168.1.5 - - [21/Jul/2025 13:45:22] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-21 13:45:46,406 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:45:47,191 - INFO -  * Restarting with stat
+2025-07-21 13:45:55,700 - WARNING -  * Debugger is active!
+2025-07-21 13:45:55,705 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:46:13,187 - INFO - 192.168.1.5 - - [21/Jul/2025 13:46:13] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:46:13,931 - INFO - Input: pure joy in color — sunflower yellow, coral pink, sky blue, and mint green. think laughter in the sun, picnic blankets, bubbles in the air, roller skates, and golden hour smiles. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': ['blue', 'coral pink', 'green', 'mint green', 'pink', 'sky blue', 'sunflower yellow', 'yellow'], 'negated_colors': [], 'visuals': ['pure joy in color', 'think laughter in the sun', 'picnic blankets', 'roller skates', 'and golden hour smiles.'], 'patterns': []}
+2025-07-21 13:46:13,933 - INFO - 192.168.1.5 - - [21/Jul/2025 13:46:13] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:47:28,344 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:47:29,114 - INFO -  * Restarting with stat
+2025-07-21 13:47:37,886 - WARNING -  * Debugger is active!
+2025-07-21 13:47:37,892 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:48:11,127 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:48:11,886 - INFO -  * Restarting with stat
+2025-07-21 13:48:20,336 - WARNING -  * Debugger is active!
+2025-07-21 13:48:20,342 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:48:29,490 - INFO - 192.168.1.5 - - [21/Jul/2025 13:48:29] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:48:30,225 - INFO - Input: pure joy in color — sunflower yellow, coral pink, sky blue, and mint green. think laughter in the sun, picnic blankets, bubbles in the air, roller skates, and golden hour smiles. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': [{'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'blue'}, {'hex': 'gemstone_colors', 'hue_group': 'gemstone_colors', 'name': 'coral pink'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'green'}, {'hex': 'pastels', 'hue_group': 'pastels', 'name': 'mint green'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'pink'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sky blue'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sunflower yellow'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'yellow'}], 'negated_colors': [], 'visuals': ['pure joy in color', 'think laughter in the sun', 'picnic blankets', 'roller skates', 'and golden hour smiles.'], 'patterns': []}
+2025-07-21 13:48:30,226 - INFO - 192.168.1.5 - - [21/Jul/2025 13:48:30] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:48:55,595 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:48:56,391 - INFO -  * Restarting with stat
+2025-07-21 13:49:04,910 - WARNING -  * Debugger is active!
+2025-07-21 13:49:04,916 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:49:34,792 - INFO - 192.168.1.5 - - [21/Jul/2025 13:49:34] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:49:35,514 - INFO - Input: pure joy in color — sunflower yellow, coral pink, sky blue, and mint green. think laughter in the sun, picnic blankets, bubbles in the air, roller skates, and golden hour smiles. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': [{'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'blue'}, {'hex': 'gemstone_colors', 'hue_group': 'gemstone_colors', 'name': 'coral pink'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'green'}, {'hex': 'pastels', 'hue_group': 'pastels', 'name': 'mint green'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'pink'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sky blue'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sunflower yellow'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'yellow'}], 'negated_colors': [], 'visuals': ['pure joy in color', 'think laughter in the sun', 'picnic blankets', 'roller skates', 'and golden hour smiles.'], 'patterns': []}
+2025-07-21 13:49:35,515 - INFO - 192.168.1.5 - - [21/Jul/2025 13:49:35] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:49:55,266 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:49:56,038 - INFO -  * Restarting with stat
+2025-07-21 13:50:04,554 - WARNING -  * Debugger is active!
+2025-07-21 13:50:04,561 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:50:13,487 - INFO - 192.168.1.5 - - [21/Jul/2025 13:50:13] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:50:14,192 - INFO - Input: pure joy in color — sunflower yellow, coral pink, sky blue, and mint green. think laughter in the sun, picnic blankets, bubbles in the air, roller skates, and golden hour smiles. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': [{'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'blue'}, {'hex': 'gemstone_colors', 'hue_group': 'gemstone_colors', 'name': 'coral pink'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'green'}, {'hex': 'pastels', 'hue_group': 'pastels', 'name': 'mint green'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'pink'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sky blue'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sunflower yellow'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'yellow'}], 'negated_colors': [], 'visuals': ['pure joy in color', 'think laughter in the sun', 'picnic blankets', 'roller skates', 'and golden hour smiles.'], 'patterns': []}
+2025-07-21 13:50:14,193 - INFO - 192.168.1.5 - - [21/Jul/2025 13:50:14] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:50:42,849 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:50:43,611 - INFO -  * Restarting with stat
+2025-07-21 13:50:52,122 - WARNING -  * Debugger is active!
+2025-07-21 13:50:52,129 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:51:01,124 - INFO - 192.168.1.5 - - [21/Jul/2025 13:51:01] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:51:01,906 - INFO - Input: pure joy in color — sunflower yellow, coral pink, sky blue, and mint green. think laughter in the sun, picnic blankets, bubbles in the air, roller skates, and golden hour smiles. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': [{'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'blue'}, {'hex': 'gemstone_colors', 'hue_group': 'gemstone_colors', 'name': 'coral pink'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'green'}, {'hex': 'pastels', 'hue_group': 'pastels', 'name': 'mint green'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'pink'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sky blue'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sunflower yellow'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'yellow'}], 'negated_colors': [], 'visuals': ['pure joy in color', 'think laughter in the sun', 'picnic blankets', 'roller skates', 'and golden hour smiles.'], 'patterns': []}
+2025-07-21 13:51:01,907 - INFO - 192.168.1.5 - - [21/Jul/2025 13:51:01] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:51:24,485 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:51:25,274 - INFO -  * Restarting with stat
+2025-07-21 13:51:33,587 - WARNING -  * Debugger is active!
+2025-07-21 13:51:33,593 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:51:37,637 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:51:38,429 - INFO -  * Restarting with stat
+2025-07-21 13:51:46,733 - WARNING -  * Debugger is active!
+2025-07-21 13:51:46,739 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:51:55,211 - INFO - 192.168.1.5 - - [21/Jul/2025 13:51:55] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:51:55,976 - INFO - Input: pure joy in color — sunflower yellow, coral pink, sky blue, and mint green. think laughter in the sun, picnic blankets, bubbles in the air, roller skates, and golden hour smiles. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': [{'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'blue'}, {'hex': 'gemstone_colors', 'hue_group': 'gemstone_colors', 'name': 'coral pink'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'green'}, {'hex': 'pastels', 'hue_group': 'pastels', 'name': 'mint green'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'pink'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sky blue'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sunflower yellow'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'yellow'}], 'negated_colors': [], 'visuals': ['pure joy in color', 'think laughter in the sun', 'picnic blankets', 'roller skates', 'and golden hour smiles.'], 'patterns': []}
+2025-07-21 13:51:55,978 - INFO - 192.168.1.5 - - [21/Jul/2025 13:51:55] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:52:20,034 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:52:20,781 - INFO -  * Restarting with stat
+2025-07-21 13:52:29,122 - WARNING -  * Debugger is active!
+2025-07-21 13:52:29,127 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:52:31,160 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:52:31,905 - INFO -  * Restarting with stat
+2025-07-21 13:52:40,188 - WARNING -  * Debugger is active!
+2025-07-21 13:52:40,194 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:53:03,367 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 13:53:04,146 - INFO -  * Restarting with stat
+2025-07-21 13:53:12,605 - WARNING -  * Debugger is active!
+2025-07-21 13:53:12,611 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 13:53:21,468 - INFO - 192.168.1.5 - - [21/Jul/2025 13:53:21] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 13:53:22,232 - INFO - Input: pure joy in color — sunflower yellow, coral pink, sky blue, and mint green. think laughter in the sun, picnic blankets, bubbles in the air, roller skates, and golden hour smiles. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': [{'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'blue'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'coral pink'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'green'}, {'hex': 'pastels', 'hue_group': 'pastels', 'name': 'mint green'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'pink'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sky blue'}, {'hex': 'naturals', 'hue_group': 'naturals', 'name': 'sunflower yellow'}, {'hex': 'base_colors', 'hue_group': 'base_colors', 'name': 'yellow'}], 'negated_colors': [], 'visuals': ['pure joy in color', 'think laughter in the sun', 'picnic blankets', 'roller skates', 'and golden hour smiles.'], 'patterns': []}
+2025-07-21 13:53:22,234 - INFO - 192.168.1.5 - - [21/Jul/2025 13:53:22] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 21:07:06,675 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-21 21:07:06,676 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-21 21:07:06,679 - INFO -  * Restarting with stat
+2025-07-21 21:07:20,352 - WARNING -  * Debugger is active!
+2025-07-21 21:07:20,358 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:07:21,959 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:07:23,108 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:07:24,141 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:07:25,753 - INFO - Input: pure joy in color — sunflower yellow, coral pink, sky blue, and mint green. think laughter in the sun, picnic blankets, bubbles in the air, roller skates, and golden hour smiles. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': ['blue', 'coral pink', 'green', 'mint green', 'pink', 'sky blue', 'sunflower yellow', 'yellow'], 'negated_colors': [], 'visuals': ['pure joy in color', 'think laughter in the sun', 'picnic blankets', 'roller skates', 'and golden hour smiles.'], 'patterns': []}
+2025-07-21 21:07:25,754 - INFO - 127.0.0.1 - - [21/Jul/2025 21:07:25] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 21:10:56,659 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:10:57,827 - INFO -  * Restarting with stat
+2025-07-21 21:11:11,445 - WARNING -  * Debugger is active!
+2025-07-21 21:11:11,452 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:11:17,523 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:11:18,554 - INFO -  * Restarting with stat
+2025-07-21 21:11:32,172 - WARNING -  * Debugger is active!
+2025-07-21 21:11:32,180 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:11:44,065 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:11:45,116 - INFO -  * Restarting with stat
+2025-07-21 21:11:58,755 - WARNING -  * Debugger is active!
+2025-07-21 21:11:58,761 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:15:11,493 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:15:12,490 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:15:13,622 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:15:14,638 - ERROR - Server error: 'str' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\app.py", line 173, in analyze_emotion
+    output_path, session_log = generate_moodboard(parsed_data, mapped_emotion)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 352, in generate_moodboard
+    merged_spec = image(merged_spec, emotion_label, api_key)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 756, in image
+    processed_colors.append({"hex": color, "hue_group": "gray"})
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'get'
+
+2025-07-21 21:15:14,640 - INFO - 127.0.0.1 - - [21/Jul/2025 21:15:14] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-21 21:15:27,885 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:15:29,022 - INFO -  * Restarting with stat
+2025-07-21 21:15:42,085 - WARNING -  * Debugger is active!
+2025-07-21 21:15:42,092 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:15:48,237 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:15:49,235 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:15:50,273 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:15:51,337 - INFO - ====== WebDriver manager ======
+2025-07-21 21:15:53,021 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:15:53,189 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:15:53,352 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:16:05,660 - INFO - ====== WebDriver manager ======
+2025-07-21 21:16:07,470 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:16:07,618 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:16:07,785 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:16:19,429 - INFO - ====== WebDriver manager ======
+2025-07-21 21:16:21,090 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:16:21,296 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:16:21,479 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:16:32,206 - INFO - ====== WebDriver manager ======
+2025-07-21 21:16:33,841 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:16:34,034 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:16:34,322 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:16:43,206 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:16:44,265 - INFO -  * Restarting with stat
+2025-07-21 21:16:57,933 - WARNING -  * Debugger is active!
+2025-07-21 21:16:57,939 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:20:15,266 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:20:16,358 - INFO -  * Restarting with stat
+2025-07-21 21:20:30,423 - WARNING -  * Debugger is active!
+2025-07-21 21:20:30,433 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:21:00,051 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:21:01,145 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:21:02,160 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:21:03,209 - INFO - ====== WebDriver manager ======
+2025-07-21 21:21:04,914 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:21:05,092 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:21:05,227 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:21:14,861 - INFO - ====== WebDriver manager ======
+2025-07-21 21:21:16,583 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:21:16,756 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:21:16,930 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:21:27,873 - INFO - ====== WebDriver manager ======
+2025-07-21 21:21:29,513 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:21:29,678 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:21:29,856 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:21:40,106 - INFO - ====== WebDriver manager ======
+2025-07-21 21:21:41,758 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:21:41,894 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:21:42,077 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:21:53,311 - ERROR - Server error: name 'processed_colors' is not defined
+Traceback (most recent call last):
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\app.py", line 173, in analyze_emotion
+    output_path, session_log = generate_moodboard(parsed_data, mapped_emotion)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 352, in generate_moodboard
+    merged_spec = image(merged_spec, emotion_label, api_key)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 807, in image
+    if color_objects and len(color_objects) > 0:
+       ^^^^^^^^^^^^^^^^
+NameError: name 'processed_colors' is not defined
+
+2025-07-21 21:21:53,313 - INFO - 127.0.0.1 - - [21/Jul/2025 21:21:53] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-21 21:30:18,231 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:30:19,295 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:30:20,265 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:30:21,295 - INFO - ====== WebDriver manager ======
+2025-07-21 21:30:23,057 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:30:23,196 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:30:23,341 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:30:35,723 - INFO - ====== WebDriver manager ======
+2025-07-21 21:30:37,390 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:30:37,534 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:30:37,666 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:30:46,300 - INFO - ====== WebDriver manager ======
+2025-07-21 21:30:48,000 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:30:48,148 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:30:48,317 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:30:58,247 - INFO - ====== WebDriver manager ======
+2025-07-21 21:30:59,929 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:31:00,072 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:31:00,236 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:31:10,378 - ERROR - Server error: name 'processed_colors' is not defined
+Traceback (most recent call last):
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\app.py", line 173, in analyze_emotion
+    output_path, session_log = generate_moodboard(parsed_data, mapped_emotion)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 352, in generate_moodboard
+    merged_spec = image(merged_spec, emotion_label, api_key)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 807, in image
+    if color_objects and len(color_objects) > 0:
+       ^^^^^^^^^^^^^^^^
+NameError: name 'processed_colors' is not defined
+
+2025-07-21 21:31:10,379 - INFO - 127.0.0.1 - - [21/Jul/2025 21:31:10] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-21 21:33:39,243 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:33:40,284 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:33:41,453 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:33:42,576 - INFO - ====== WebDriver manager ======
+2025-07-21 21:33:44,224 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:33:44,412 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:33:44,582 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:33:57,068 - INFO - ====== WebDriver manager ======
+2025-07-21 21:33:58,746 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:33:58,928 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:33:59,095 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:34:09,244 - INFO - ====== WebDriver manager ======
+2025-07-21 21:34:10,892 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:34:11,053 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:34:11,219 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:34:21,835 - INFO - ====== WebDriver manager ======
+2025-07-21 21:34:23,468 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:34:23,605 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:34:23,739 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:34:34,177 - ERROR - Server error: name 'processed_colors' is not defined
+Traceback (most recent call last):
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\app.py", line 173, in analyze_emotion
+    output_path, session_log = generate_moodboard(parsed_data, mapped_emotion)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 352, in generate_moodboard
+    merged_spec = image(merged_spec, emotion_label, api_key)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 807, in image
+    if color_objects and len(color_objects) > 0:
+       ^^^^^^^^^^^^^^^^
+NameError: name 'processed_colors' is not defined
+
+2025-07-21 21:34:34,178 - INFO - 127.0.0.1 - - [21/Jul/2025 21:34:34] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-21 21:35:25,746 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\simple_test.py', reloading
+2025-07-21 21:35:26,859 - INFO -  * Restarting with stat
+2025-07-21 21:35:40,618 - WARNING -  * Debugger is active!
+2025-07-21 21:35:40,625 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:36:19,386 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:36:20,595 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:36:21,555 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:36:22,553 - INFO - ====== WebDriver manager ======
+2025-07-21 21:36:24,217 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:36:24,383 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:36:24,522 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:36:36,577 - INFO - ====== WebDriver manager ======
+2025-07-21 21:36:38,186 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:36:38,333 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:36:38,502 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:36:51,046 - INFO - ====== WebDriver manager ======
+2025-07-21 21:36:52,634 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:36:52,798 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:36:52,936 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:37:02,176 - INFO - ====== WebDriver manager ======
+2025-07-21 21:37:03,768 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:37:03,900 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:37:04,095 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:37:14,172 - INFO - ====== WebDriver manager ======
+2025-07-21 21:37:15,763 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:37:15,918 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:37:16,059 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:37:29,648 - INFO - Input: sleek innovation and technology — electric blue, metallic silver, pure white, and carbon black. modern gadgets, clean interfaces, minimalist design, smart devices, and digital futures. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': ['black', 'blue', 'electric blue', 'metallic silver', 'pure white', 'silver', 'white'], 'negated_colors': [], 'visuals': ['sleek innovation and technology', 'modern gadgets', 'clean interfaces', 'minimalist design', 'smart devices', 'and digital futures.'], 'patterns': []}
+2025-07-21 21:37:29,649 - INFO - 127.0.0.1 - - [21/Jul/2025 21:37:29] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 21:38:20,661 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:38:21,667 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:38:22,689 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:38:23,768 - INFO - ====== WebDriver manager ======
+2025-07-21 21:38:25,355 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:38:25,527 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:38:25,665 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:38:37,224 - INFO - ====== WebDriver manager ======
+2025-07-21 21:38:38,817 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:38:38,956 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:38:39,107 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:38:49,121 - INFO - ====== WebDriver manager ======
+2025-07-21 21:38:50,715 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:38:50,869 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:38:51,016 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:39:02,058 - INFO - ====== WebDriver manager ======
+2025-07-21 21:39:03,636 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:39:03,778 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:39:03,922 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:39:14,059 - INFO - ====== WebDriver manager ======
+2025-07-21 21:39:15,653 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:39:15,807 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:39:15,943 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:39:27,130 - INFO - Input: cozy warmth and comfort — burnt orange, soft cream, deep brown, and golden yellow. fireplace glow, warm blankets, coffee cups, reading nooks, and peaceful evenings.. | Source: Keyword Match | Mapped: LOVE/BLUSH | Parsed: {'colors': ['brown', 'deep brown', 'golden yellow', 'orange', 'soft cream', 'yellow'], 'negated_colors': [], 'visuals': ['cozy warmth and comfort', 'fireplace glow', 'warm blankets', 'coffee cups', 'reading nooks', 'and peaceful evenings..'], 'patterns': []}
+2025-07-21 21:39:27,132 - INFO - 127.0.0.1 - - [21/Jul/2025 21:39:27] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 21:41:51,568 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\app.py', reloading
+2025-07-21 21:41:52,800 - INFO -  * Restarting with stat
+2025-07-21 21:42:06,994 - WARNING -  * Debugger is active!
+2025-07-21 21:42:07,002 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:42:13,248 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\simple_test.py', reloading
+2025-07-21 21:42:14,341 - INFO -  * Restarting with stat
+2025-07-21 21:42:27,996 - WARNING -  * Debugger is active!
+2025-07-21 21:42:28,003 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:42:38,302 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:42:39,310 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:42:40,271 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:42:41,381 - INFO - ====== WebDriver manager ======
+2025-07-21 21:42:43,123 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:42:43,287 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:42:43,424 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:42:54,053 - INFO - ====== WebDriver manager ======
+2025-07-21 21:42:55,718 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:42:55,870 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:42:56,077 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:43:06,316 - INFO - ====== WebDriver manager ======
+2025-07-21 21:43:07,958 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:43:08,120 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:43:08,294 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:43:17,893 - INFO - ====== WebDriver manager ======
+2025-07-21 21:43:19,521 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:43:19,691 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:43:19,862 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:43:29,502 - INFO - ====== WebDriver manager ======
+2025-07-21 21:43:31,248 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:43:31,421 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:43:31,579 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:43:45,731 - INFO - Input: cozy warmth and comfort — burnt orange, soft cream, deep brown, and golden yellow. fireplace glow, warm blankets, coffee cups, reading nooks, and peaceful evenings. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['brown', 'deep brown', 'golden yellow', 'orange', 'soft cream', 'yellow'], 'negated_colors': [], 'visuals': ['cozy warmth and comfort', 'fireplace glow', 'warm blankets', 'coffee cups', 'reading nooks', 'and peaceful evenings.'], 'patterns': []}
+2025-07-21 21:43:45,732 - INFO - 127.0.0.1 - - [21/Jul/2025 21:43:45] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 21:46:48,474 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:46:49,632 - INFO -  * Restarting with stat
+2025-07-21 21:47:03,719 - WARNING -  * Debugger is active!
+2025-07-21 21:47:03,725 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:47:15,576 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:47:16,653 - INFO -  * Restarting with stat
+2025-07-21 21:47:30,128 - WARNING -  * Debugger is active!
+2025-07-21 21:47:30,134 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:47:31,636 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:47:32,710 - INFO -  * Restarting with stat
+2025-07-21 21:47:46,513 - WARNING -  * Debugger is active!
+2025-07-21 21:47:46,520 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:47:51,495 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:47:52,617 - INFO -  * Restarting with stat
+2025-07-21 21:48:06,320 - WARNING -  * Debugger is active!
+2025-07-21 21:48:06,327 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:48:07,772 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:48:08,880 - INFO -  * Restarting with stat
+2025-07-21 21:48:22,405 - WARNING -  * Debugger is active!
+2025-07-21 21:48:22,411 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:48:27,309 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:48:28,398 - INFO -  * Restarting with stat
+2025-07-21 21:48:42,108 - WARNING -  * Debugger is active!
+2025-07-21 21:48:42,114 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:49:58,290 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:49:59,376 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:50:00,426 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:50:01,435 - INFO - ====== WebDriver manager ======
+2025-07-21 21:50:03,136 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:50:03,279 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:50:03,452 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:50:17,764 - INFO - ====== WebDriver manager ======
+2025-07-21 21:50:19,404 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:50:19,562 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:50:19,720 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:50:32,493 - INFO - ====== WebDriver manager ======
+2025-07-21 21:50:34,114 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:50:34,285 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:50:34,445 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:50:49,615 - INFO - ====== WebDriver manager ======
+2025-07-21 21:50:51,263 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:50:51,401 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:50:51,534 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:51:04,368 - ERROR - Server error: image.<locals>.fetch_images() missing 1 required positional argument: 'emotion_label'
+Traceback (most recent call last):
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\app.py", line 174, in analyze_emotion
+    output_path, session_log = generate_moodboard(parsed_data, mapped_emotion)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 352, in generate_moodboard
+    merged_spec = image(merged_spec, emotion_label, api_key)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\dhruv\OneDrive\Desktop\Computer Science Engineering\Adobe_Express-Hackathon\Adobe_Express-Hackathon\Mood-Match\backend\detect_important.py", line 863, in image
+    urls = fetch_images(pattern, pattern_color, emotion_label, count=8)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: image.<locals>.fetch_images() missing 1 required positional argument: 'emotion_label'
+
+2025-07-21 21:51:04,370 - INFO - 127.0.0.1 - - [21/Jul/2025 21:51:04] "[35m[1mPOST /analyze_emotion HTTP/1.1[0m" 500 -
+2025-07-21 21:54:47,625 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 21:54:48,693 - INFO -  * Restarting with stat
+2025-07-21 21:55:01,705 - WARNING -  * Debugger is active!
+2025-07-21 21:55:01,711 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 21:55:55,184 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:55:56,205 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:55:57,295 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 21:55:58,288 - INFO - ====== WebDriver manager ======
+2025-07-21 21:56:00,092 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:00,275 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:00,445 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:56:14,212 - INFO - ====== WebDriver manager ======
+2025-07-21 21:56:15,853 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:16,023 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:16,224 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:56:28,470 - INFO - ====== WebDriver manager ======
+2025-07-21 21:56:30,120 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:30,279 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:30,419 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:56:43,099 - INFO - ====== WebDriver manager ======
+2025-07-21 21:56:44,749 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:44,904 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:45,071 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:56:57,413 - INFO - ====== WebDriver manager ======
+2025-07-21 21:56:59,059 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:59,234 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 21:56:59,440 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 21:57:14,136 - INFO - Input: cozy warmth and comfort — burnt orange, soft cream, deep brown, and golden yellow. fireplace glow, warm blankets, coffee cups, reading nooks, and peaceful evenings. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['brown', 'deep brown', 'golden yellow', 'orange', 'soft cream', 'yellow'], 'negated_colors': [], 'visuals': ['cozy warmth and comfort', 'fireplace glow', 'warm blankets', 'coffee cups', 'reading nooks', 'and peaceful evenings.'], 'patterns': []}
+2025-07-21 21:57:14,139 - INFO - 127.0.0.1 - - [21/Jul/2025 21:57:14] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 21:57:43,382 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\simple_test.py', reloading
+2025-07-21 21:57:44,447 - INFO -  * Restarting with stat
+2025-07-21 21:57:57,546 - WARNING -  * Debugger is active!
+2025-07-21 21:57:57,556 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:02:12,624 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 22:02:13,708 - INFO -  * Restarting with stat
+2025-07-21 22:02:27,022 - WARNING -  * Debugger is active!
+2025-07-21 22:02:27,031 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:02:53,969 - ERROR - Missing 'text' field in JSON
+2025-07-21 22:02:53,970 - INFO - 127.0.0.1 - - [21/Jul/2025 22:02:53] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 22:02:57,149 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:02:58,423 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:02:59,441 - INFO - ====== WebDriver manager ======
+2025-07-21 22:03:01,117 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:03:01,260 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:03:01,466 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:03:15,456 - INFO - ====== WebDriver manager ======
+2025-07-21 22:03:17,126 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:03:17,264 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:03:17,429 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:03:32,230 - INFO - ====== WebDriver manager ======
+2025-07-21 22:03:33,860 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:03:34,015 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:03:34,146 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:03:45,834 - INFO - ====== WebDriver manager ======
+2025-07-21 22:03:47,533 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:03:47,697 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:03:47,871 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:04:00,618 - INFO - ====== WebDriver manager ======
+2025-07-21 22:04:02,245 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:04:02,431 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:04:02,571 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:04:15,661 - INFO - Input: modern minimalist design — clean white, soft grey, warm wood tones. natural light, simple furniture, plants, open spaces. | Source: Keyword Match | Mapped: NEUTRAL/CLARITY | Parsed: {'colors': ['clean white', 'white'], 'negated_colors': [], 'visuals': ['modern minimalist design', 'warm wood tones.', 'simple furniture', 'open spaces.'], 'patterns': []}
+2025-07-21 22:04:15,663 - INFO - 127.0.0.1 - - [21/Jul/2025 22:04:15] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 22:04:40,229 - INFO - 127.0.0.1 - - [21/Jul/2025 22:04:40] "[33mGET /?id=87afc53b-f929-49f7-8716-c79c39a93380&vscodeBrowserReqId=1753115680219 HTTP/1.1[0m" 404 -
+2025-07-21 22:06:00,078 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\simple_test.py', reloading
+2025-07-21 22:06:01,159 - INFO -  * Restarting with stat
+2025-07-21 22:06:14,799 - WARNING -  * Debugger is active!
+2025-07-21 22:06:14,807 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:06:17,667 - ERROR - Missing 'text' field in JSON
+2025-07-21 22:06:17,668 - INFO - 127.0.0.1 - - [21/Jul/2025 22:06:17] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 22:06:21,015 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:06:22,033 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:06:23,048 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:06:24,054 - INFO - ====== WebDriver manager ======
+2025-07-21 22:06:25,726 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:06:25,891 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:06:26,066 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:06:39,746 - INFO - ====== WebDriver manager ======
+2025-07-21 22:06:41,388 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:06:41,523 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:06:41,658 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:06:53,274 - INFO - ====== WebDriver manager ======
+2025-07-21 22:06:54,945 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:06:55,116 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:06:55,284 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:07:07,895 - INFO - ====== WebDriver manager ======
+2025-07-21 22:07:09,536 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:07:09,694 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:07:09,836 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:07:24,601 - INFO - ====== WebDriver manager ======
+2025-07-21 22:07:26,226 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:07:26,381 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:07:26,535 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:07:39,044 - INFO - Input: vibrant creative energy — electric orange, bright magenta, lime green, and sunny yellow. abstract art, colorful paint splatters, creative workspace, artistic inspiration, and dynamic movement. | Source: Keyword Match | Mapped: JOY/HAPPINESS | Parsed: {'colors': ['bright magenta', 'electric orange', 'green', 'lime green', 'magenta', 'orange', 'sunny yellow', 'yellow'], 'negated_colors': [], 'visuals': ['vibrant creative energy', 'colorful paint splatters', 'creative workspace', 'and dynamic movement.'], 'patterns': []}
+2025-07-21 22:07:39,045 - INFO - 127.0.0.1 - - [21/Jul/2025 22:07:39] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 22:07:55,287 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\simple_test.py', reloading
+2025-07-21 22:07:56,437 - INFO -  * Restarting with stat
+2025-07-21 22:08:10,372 - WARNING -  * Debugger is active!
+2025-07-21 22:08:10,381 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:09:42,896 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 22:09:43,927 - INFO -  * Restarting with stat
+2025-07-21 22:09:54,860 - WARNING -  * Debugger is active!
+2025-07-21 22:09:54,865 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:09:59,637 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 22:10:00,595 - INFO -  * Restarting with stat
+2025-07-21 22:10:11,498 - WARNING -  * Debugger is active!
+2025-07-21 22:10:11,503 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:11:11,176 - ERROR - Missing 'text' field in JSON
+2025-07-21 22:11:11,177 - INFO - 127.0.0.1 - - [21/Jul/2025 22:11:11] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 22:11:22,327 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:11:23,302 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:11:24,185 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:11:25,096 - INFO - ====== WebDriver manager ======
+2025-07-21 22:11:26,514 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:11:26,687 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:11:26,830 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:11:50,380 - INFO - ====== WebDriver manager ======
+2025-07-21 22:11:51,781 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:11:51,954 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:11:52,125 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:12:04,157 - INFO - ====== WebDriver manager ======
+2025-07-21 22:12:05,524 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:12:05,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:12:06,036 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:12:17,565 - INFO - ====== WebDriver manager ======
+2025-07-21 22:12:18,930 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:12:19,064 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:12:19,226 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:12:30,308 - INFO - ====== WebDriver manager ======
+2025-07-21 22:12:31,686 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:12:31,833 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:12:31,989 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:12:43,897 - INFO - Input: sophisticated elegance and luxury — deep navy, gold accents, cream marble, charcoal grey. crystal chandeliers, velvet textures, fine wine, elegant architecture, and timeless beauty. | Source: ML Label: admiration | Mapped: JOY/HAPPINESS | Parsed: {'colors': ['gold'], 'negated_colors': [], 'visuals': ['sophisticated elegance and luxury', 'deep navy', 'cream marble', 'charcoal grey.', 'crystal chandeliers', 'velvet textures', 'fine wine', 'and timeless beauty.'], 'patterns': []}
+2025-07-21 22:12:43,899 - INFO - 127.0.0.1 - - [21/Jul/2025 22:12:43] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 22:12:51,855 - INFO - 127.0.0.1 - - [21/Jul/2025 22:12:51] "[33mGET /?id=87afc53b-f929-49f7-8716-c79c39a93380&vscodeBrowserReqId=1753116171847 HTTP/1.1[0m" 404 -
+2025-07-21 22:36:05,655 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 22:36:06,826 - INFO -  * Restarting with stat
+2025-07-21 22:36:17,987 - WARNING -  * Debugger is active!
+2025-07-21 22:36:17,993 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:37:16,284 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 22:37:17,384 - INFO -  * Restarting with stat
+2025-07-21 22:37:28,236 - WARNING -  * Debugger is active!
+2025-07-21 22:37:28,242 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:38:12,860 - ERROR - Missing 'text' field in JSON
+2025-07-21 22:38:12,861 - INFO - 127.0.0.1 - - [21/Jul/2025 22:38:12] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 22:38:20,946 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:38:21,916 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:38:22,847 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:38:23,749 - INFO - ====== WebDriver manager ======
+2025-07-21 22:38:25,255 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:38:25,491 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:38:25,688 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:38:37,742 - INFO - ====== WebDriver manager ======
+2025-07-21 22:38:39,196 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:38:39,358 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:38:39,555 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:38:51,076 - INFO - ====== WebDriver manager ======
+2025-07-21 22:38:52,437 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:38:52,613 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:38:52,951 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:39:06,432 - INFO - ====== WebDriver manager ======
+2025-07-21 22:39:07,804 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:39:07,950 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:39:08,083 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:39:19,501 - INFO - ====== WebDriver manager ======
+2025-07-21 22:39:20,867 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:39:21,013 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:39:21,151 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:39:33,317 - INFO - Input: sophisticated elegance and luxury — deep navy, gold accents, cream marble, charcoal grey. crystal chandeliers, velvet textures, fine wine, elegant architecture, and timeless beauty. | Source: ML Label: admiration | Mapped: JOY/HAPPINESS | Parsed: {'colors': ['gold'], 'negated_colors': [], 'visuals': ['sophisticated elegance and luxury', 'deep navy', 'cream marble', 'charcoal grey.', 'crystal chandeliers', 'velvet textures', 'fine wine', 'and timeless beauty.'], 'patterns': []}
+2025-07-21 22:39:33,318 - INFO - 127.0.0.1 - - [21/Jul/2025 22:39:33] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 22:39:52,614 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\simple_test.py', reloading
+2025-07-21 22:39:53,756 - INFO -  * Restarting with stat
+2025-07-21 22:40:04,789 - WARNING -  * Debugger is active!
+2025-07-21 22:40:04,795 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:40:11,772 - ERROR - Missing 'text' field in JSON
+2025-07-21 22:40:11,773 - INFO - 127.0.0.1 - - [21/Jul/2025 22:40:11] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 22:40:14,803 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:40:15,691 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:40:16,554 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:40:17,485 - INFO - ====== WebDriver manager ======
+2025-07-21 22:40:18,880 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:40:19,050 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:40:19,228 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:40:30,392 - INFO - ====== WebDriver manager ======
+2025-07-21 22:40:31,753 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:40:31,936 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:40:32,094 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:40:44,419 - INFO - ====== WebDriver manager ======
+2025-07-21 22:40:45,790 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:40:45,959 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:40:46,108 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:40:57,667 - INFO - ====== WebDriver manager ======
+2025-07-21 22:40:59,075 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:40:59,207 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:40:59,403 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:41:10,489 - INFO - ====== WebDriver manager ======
+2025-07-21 22:41:11,860 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:41:12,011 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:41:12,179 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:41:24,918 - INFO - Input: calm meditation and tranquility — soft blue, gentle white, natural green. peaceful mountains, zen garden, quiet lake, serene forest, harmony. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['blue', 'gentle white', 'green', 'natural green', 'soft blue', 'white'], 'negated_colors': [], 'visuals': ['peaceful mountains', 'zen garden', 'quiet lake', 'serene forest'], 'patterns': []}
+2025-07-21 22:41:24,919 - INFO - 127.0.0.1 - - [21/Jul/2025 22:41:24] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 22:42:36,124 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 22:42:37,201 - INFO -  * Restarting with stat
+2025-07-21 22:42:48,427 - WARNING -  * Debugger is active!
+2025-07-21 22:42:48,433 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:43:02,269 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 22:43:03,296 - INFO -  * Restarting with stat
+2025-07-21 22:43:14,359 - WARNING -  * Debugger is active!
+2025-07-21 22:43:14,364 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:43:20,451 - ERROR - Missing 'text' field in JSON
+2025-07-21 22:43:20,452 - INFO - 127.0.0.1 - - [21/Jul/2025 22:43:20] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 22:43:23,511 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:43:24,627 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:43:25,531 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:43:26,388 - INFO - ====== WebDriver manager ======
+2025-07-21 22:43:27,767 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:43:27,910 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:43:28,064 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:43:40,137 - INFO - ====== WebDriver manager ======
+2025-07-21 22:43:41,490 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:43:41,635 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:43:41,790 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:43:53,185 - INFO - ====== WebDriver manager ======
+2025-07-21 22:43:54,544 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:43:54,677 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:43:54,815 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:44:07,367 - INFO - ====== WebDriver manager ======
+2025-07-21 22:44:08,797 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:44:08,966 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:44:09,149 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:44:21,202 - INFO - ====== WebDriver manager ======
+2025-07-21 22:44:22,566 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:44:22,708 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:44:22,854 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:44:35,268 - INFO - Input: calm meditation and tranquility — soft blue, gentle white, natural green. peaceful mountains, zen garden, quiet lake, serene forest, harmony. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['blue', 'gentle white', 'green', 'natural green', 'soft blue', 'white'], 'negated_colors': [], 'visuals': ['peaceful mountains', 'zen garden', 'quiet lake', 'serene forest'], 'patterns': []}
+2025-07-21 22:44:35,269 - INFO - 127.0.0.1 - - [21/Jul/2025 22:44:35] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 22:44:40,116 - INFO - 127.0.0.1 - - [21/Jul/2025 22:44:40] "[33mGET /?id=87afc53b-f929-49f7-8716-c79c39a93380&vscodeBrowserReqId=1753118080108 HTTP/1.1[0m" 404 -
+2025-07-21 22:48:33,423 - ERROR - Missing 'text' field in JSON
+2025-07-21 22:48:33,425 - INFO - 127.0.0.1 - - [21/Jul/2025 22:48:33] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 22:48:36,565 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:48:37,473 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:48:38,409 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:48:39,276 - INFO - ====== WebDriver manager ======
+2025-07-21 22:48:40,643 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:48:40,795 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:48:40,962 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:48:52,773 - INFO - ====== WebDriver manager ======
+2025-07-21 22:48:54,835 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:48:55,009 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:48:55,162 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:49:06,684 - INFO - ====== WebDriver manager ======
+2025-07-21 22:49:08,062 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:49:08,223 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:49:08,392 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:49:20,355 - INFO - ====== WebDriver manager ======
+2025-07-21 22:49:21,716 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:49:21,865 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:49:21,997 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:49:33,630 - INFO - ====== WebDriver manager ======
+2025-07-21 22:49:35,000 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:49:35,158 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:49:35,290 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:49:47,390 - INFO - Input: calm meditation and tranquility — soft blue, gentle white, natural green. peaceful mountains, zen garden, quiet lake, serene forest, harmony. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['blue', 'gentle white', 'green', 'natural green', 'soft blue', 'white'], 'negated_colors': [], 'visuals': ['peaceful mountains', 'zen garden', 'quiet lake', 'serene forest'], 'patterns': []}
+2025-07-21 22:49:47,391 - INFO - 127.0.0.1 - - [21/Jul/2025 22:49:47] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 22:50:39,402 - INFO - 127.0.0.1 - - [21/Jul/2025 22:50:39] "[33mGET /?id=87afc53b-f929-49f7-8716-c79c39a93380&vscodeBrowserReqId=1753118439392 HTTP/1.1[0m" 404 -
+2025-07-21 22:53:25,607 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 22:53:26,678 - INFO -  * Restarting with stat
+2025-07-21 22:53:37,902 - WARNING -  * Debugger is active!
+2025-07-21 22:53:37,908 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 22:55:17,433 - ERROR - Missing 'text' field in JSON
+2025-07-21 22:55:17,433 - INFO - 127.0.0.1 - - [21/Jul/2025 22:55:17] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 22:55:20,449 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:55:21,634 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:55:22,521 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 22:55:23,377 - INFO - ====== WebDriver manager ======
+2025-07-21 22:55:24,768 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:55:24,931 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:55:25,068 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:55:36,815 - INFO - ====== WebDriver manager ======
+2025-07-21 22:55:38,223 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:55:38,419 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:55:38,557 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:55:50,035 - INFO - ====== WebDriver manager ======
+2025-07-21 22:55:51,400 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:55:51,533 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:55:51,700 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:56:03,112 - INFO - ====== WebDriver manager ======
+2025-07-21 22:56:04,531 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:56:04,689 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:56:04,863 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:56:26,660 - INFO - ====== WebDriver manager ======
+2025-07-21 22:56:28,035 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:56:28,211 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 22:56:28,350 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 22:56:40,696 - INFO - Input: calm meditation and tranquility — soft blue, gentle white, natural green. peaceful mountains, zen garden, quiet lake, serene forest, harmony. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['blue', 'gentle white', 'green', 'natural green', 'soft blue', 'white'], 'negated_colors': [], 'visuals': ['peaceful mountains', 'zen garden', 'quiet lake', 'serene forest'], 'patterns': []}
+2025-07-21 22:56:40,698 - INFO - 127.0.0.1 - - [21/Jul/2025 22:56:40] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:03:19,249 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 23:03:20,283 - INFO -  * Restarting with stat
+2025-07-21 23:03:31,538 - WARNING -  * Debugger is active!
+2025-07-21 23:03:31,544 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 23:03:37,435 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 23:03:38,443 - INFO -  * Restarting with stat
+2025-07-21 23:03:49,296 - WARNING -  * Debugger is active!
+2025-07-21 23:03:49,301 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 23:03:49,440 - ERROR - Missing 'text' field in JSON
+2025-07-21 23:03:49,441 - INFO - 127.0.0.1 - - [21/Jul/2025 23:03:49] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 23:03:52,535 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:03:53,483 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:03:54,375 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:03:55,320 - INFO - ====== WebDriver manager ======
+2025-07-21 23:03:56,762 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:03:56,942 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:03:57,103 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:04:09,922 - INFO - ====== WebDriver manager ======
+2025-07-21 23:04:11,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:04:11,450 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:04:11,603 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:04:23,047 - INFO - ====== WebDriver manager ======
+2025-07-21 23:04:24,406 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:04:24,550 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:04:24,683 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:04:35,983 - INFO - ====== WebDriver manager ======
+2025-07-21 23:04:37,346 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:04:37,500 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:04:37,639 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:04:49,161 - INFO - ====== WebDriver manager ======
+2025-07-21 23:04:50,512 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:04:50,673 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:04:50,870 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:05:03,133 - INFO - Input: calm meditation and tranquility — soft blue, gentle white, natural green. peaceful mountains, zen garden, quiet lake, serene forest, harmony. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['blue', 'gentle white', 'green', 'natural green', 'soft blue', 'white'], 'negated_colors': [], 'visuals': ['peaceful mountains', 'zen garden', 'quiet lake', 'serene forest'], 'patterns': []}
+2025-07-21 23:05:03,134 - INFO - 127.0.0.1 - - [21/Jul/2025 23:05:03] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:05:29,582 - INFO - 127.0.0.1 - - [21/Jul/2025 23:05:29] "[33mGET /?id=87afc53b-f929-49f7-8716-c79c39a93380&vscodeBrowserReqId=1753119329573 HTTP/1.1[0m" 404 -
+2025-07-21 23:08:09,786 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-21 23:08:09,787 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-21 23:08:09,789 - INFO -  * Restarting with stat
+2025-07-21 23:08:20,732 - WARNING -  * Debugger is active!
+2025-07-21 23:08:20,740 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 23:09:25,187 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-21 23:09:25,187 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-21 23:09:25,189 - INFO -  * Restarting with stat
+2025-07-21 23:09:35,896 - WARNING -  * Debugger is active!
+2025-07-21 23:09:35,902 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 23:09:45,316 - INFO - 127.0.0.1 - - [21/Jul/2025 23:09:45] "[33mGET /?id=d004d6f5-33ef-4f4f-995e-ed1f6ad280ab&vscodeBrowserReqId=1753119585307 HTTP/1.1[0m" 404 -
+2025-07-21 23:10:56,359 - INFO - 127.0.0.1 - - [21/Jul/2025 23:10:56] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:10:57,471 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:10:58,410 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:10:59,358 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:11:00,391 - INFO - ====== WebDriver manager ======
+2025-07-21 23:11:01,800 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:01,972 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:02,138 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:11:14,357 - INFO - ====== WebDriver manager ======
+2025-07-21 23:11:15,775 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:16,009 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:16,162 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:11:19,363 - INFO - 127.0.0.1 - - [21/Jul/2025 23:11:19] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:11:21,078 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:11:21,978 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:11:22,866 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:11:23,881 - INFO - ====== WebDriver manager ======
+2025-07-21 23:11:25,576 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:25,751 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:25,908 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:11:43,529 - INFO - ====== WebDriver manager ======
+2025-07-21 23:11:45,003 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:45,177 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:45,341 - INFO - ====== WebDriver manager ======
+2025-07-21 23:11:45,359 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:11:46,934 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:47,127 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:47,315 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:11:56,446 - INFO - ====== WebDriver manager ======
+2025-07-21 23:11:58,178 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:58,346 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:11:58,493 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:12:03,080 - INFO - ====== WebDriver manager ======
+2025-07-21 23:12:04,881 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:12:05,046 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:12:05,233 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:12:14,559 - INFO - ====== WebDriver manager ======
+2025-07-21 23:12:16,059 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:12:16,235 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:12:16,437 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:12:16,995 - INFO - ====== WebDriver manager ======
+2025-07-21 23:12:18,604 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:12:18,776 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:12:18,924 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:12:30,845 - INFO - ====== WebDriver manager ======
+2025-07-21 23:12:32,254 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:12:32,403 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:12:32,551 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:12:33,025 - INFO - Input: sleek innovation and technology — electric blue, metallic silver, pure white, and carbon black. modern gadgets, clean interfaces, minimalist design, smart devices, and digital futures. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': ['black', 'blue', 'electric blue', 'metallic silver', 'pure white', 'silver', 'white'], 'negated_colors': [], 'visuals': ['sleek innovation and technology', 'modern gadgets', 'clean interfaces', 'minimalist design', 'smart devices', 'and digital\xa0futures.'], 'patterns': []}
+2025-07-21 23:12:33,026 - INFO - 127.0.0.1 - - [21/Jul/2025 23:12:33] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:12:46,880 - INFO - Input: sleek innovation and technology — electric blue, metallic silver, pure white, and carbon black. modern gadgets, clean interfaces, minimalist design, smart devices, and digital futures. | Source: Keyword Match | Mapped: SORROW/DUSK | Parsed: {'colors': ['black', 'blue', 'electric blue', 'metallic silver', 'pure white', 'silver', 'white'], 'negated_colors': [], 'visuals': ['sleek innovation and technology', 'modern gadgets', 'clean interfaces', 'minimalist design', 'smart devices', 'and digital\xa0futures.'], 'patterns': []}
+2025-07-21 23:12:46,881 - INFO - 127.0.0.1 - - [21/Jul/2025 23:12:46] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:13:19,440 - INFO - 127.0.0.1 - - [21/Jul/2025 23:13:19] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:13:20,792 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:13:21,718 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:13:22,621 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:13:23,559 - INFO - ====== WebDriver manager ======
+2025-07-21 23:13:24,938 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:13:25,109 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:13:25,257 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:13:37,012 - INFO - ====== WebDriver manager ======
+2025-07-21 23:13:38,385 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:13:38,524 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:13:38,704 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:13:50,419 - INFO - ====== WebDriver manager ======
+2025-07-21 23:13:51,816 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:13:52,013 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:13:52,157 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:14:05,949 - INFO - ====== WebDriver manager ======
+2025-07-21 23:14:07,375 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:14:07,536 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:14:07,710 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:14:18,734 - INFO - ====== WebDriver manager ======
+2025-07-21 23:14:20,108 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:14:20,274 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:14:20,444 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:14:33,435 - INFO - Input: cozy warmth and comfort — burnt orange, soft cream, deep brown, and golden yellow. fireplace glow, warm blankets, coffee cups, reading nooks, and peaceful evenings.. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['brown', 'deep brown', 'golden yellow', 'orange', 'soft cream', 'yellow'], 'negated_colors': [], 'visuals': ['cozy warmth and comfort', 'fireplace glow', 'warm blankets', 'coffee cups', 'reading nooks', 'and peaceful\xa0evenings..'], 'patterns': []}
+2025-07-21 23:14:33,437 - INFO - 127.0.0.1 - - [21/Jul/2025 23:14:33] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:24:51,652 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\detect_important.py', reloading
+2025-07-21 23:24:52,623 - INFO -  * Restarting with stat
+2025-07-21 23:25:03,682 - WARNING -  * Debugger is active!
+2025-07-21 23:25:03,688 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 23:28:43,372 - ERROR - Missing 'text' field in JSON
+2025-07-21 23:28:43,373 - INFO - 127.0.0.1 - - [21/Jul/2025 23:28:43] "[31m[1mPOST /analyze_emotion HTTP/1.1[0m" 400 -
+2025-07-21 23:28:46,446 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:28:47,395 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:28:48,274 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:28:49,336 - INFO - ====== WebDriver manager ======
+2025-07-21 23:28:50,822 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:28:50,993 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:28:51,144 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:29:02,418 - INFO - ====== WebDriver manager ======
+2025-07-21 23:29:03,786 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:29:03,936 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:29:04,122 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:29:16,726 - INFO - ====== WebDriver manager ======
+2025-07-21 23:29:18,300 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:29:18,454 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:29:18,635 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:29:29,875 - INFO - ====== WebDriver manager ======
+2025-07-21 23:29:31,245 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:29:31,398 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:29:31,558 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:29:55,764 - INFO - ====== WebDriver manager ======
+2025-07-21 23:29:57,154 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:29:57,295 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:29:57,480 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:30:10,188 - INFO - Input: calm meditation and tranquility — soft blue, gentle white, natural green. peaceful mountains, zen garden, quiet lake, serene forest, harmony. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['blue', 'gentle white', 'green', 'natural green', 'soft blue', 'white'], 'negated_colors': [], 'visuals': ['peaceful mountains', 'zen garden', 'quiet lake', 'serene forest'], 'patterns': []}
+2025-07-21 23:30:10,189 - INFO - 127.0.0.1 - - [21/Jul/2025 23:30:10] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:33:49,075 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-21 23:33:49,075 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-21 23:33:49,077 - INFO -  * Restarting with stat
+2025-07-21 23:33:59,645 - WARNING -  * Debugger is active!
+2025-07-21 23:33:59,650 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 23:35:09,485 - INFO - 192.168.1.5 - - [21/Jul/2025 23:35:09] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:35:10,693 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:35:11,916 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:35:12,839 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:35:13,767 - INFO - ====== WebDriver manager ======
+2025-07-21 23:35:15,160 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:35:15,311 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:35:15,456 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:35:34,019 - INFO - ====== WebDriver manager ======
+2025-07-21 23:35:35,350 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:44:31,355 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.5:5000
+2025-07-21 23:44:31,356 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-21 23:44:31,359 - INFO -  * Restarting with stat
+2025-07-21 23:44:43,016 - WARNING -  * Debugger is active!
+2025-07-21 23:44:43,023 - INFO -  * Debugger PIN: 605-192-765
+2025-07-21 23:45:58,443 - INFO - 127.0.0.1 - - [21/Jul/2025 23:45:58] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-21 23:45:59,877 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:46:01,015 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:46:01,989 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-21 23:46:03,029 - INFO - ====== WebDriver manager ======
+2025-07-21 23:46:04,477 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:46:04,669 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:46:04,859 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:46:17,273 - INFO - ====== WebDriver manager ======
+2025-07-21 23:46:18,749 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:46:18,951 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:46:19,113 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:46:31,544 - INFO - ====== WebDriver manager ======
+2025-07-21 23:46:32,887 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:46:33,085 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:46:33,235 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:46:45,814 - INFO - ====== WebDriver manager ======
+2025-07-21 23:46:47,202 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:46:47,370 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:46:47,550 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:46:59,139 - INFO - ====== WebDriver manager ======
+2025-07-21 23:47:00,434 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:47:00,592 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-21 23:47:00,793 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-21 23:47:13,281 - INFO - Input: cozy warmth and comfort — burnt orange, soft cream, deep brown, and golden yellow. fireplace glow, warm blankets, coffee cups, reading nooks, and peaceful evenings.. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['brown', 'deep brown', 'golden yellow', 'orange', 'soft cream', 'yellow'], 'negated_colors': [], 'visuals': ['cozy warmth and comfort', 'fireplace glow', 'warm blankets', 'coffee cups', 'reading nooks', 'and peaceful\xa0evenings..'], 'patterns': []}
+2025-07-21 23:47:13,283 - INFO - 127.0.0.1 - - [21/Jul/2025 23:47:13] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-22 00:02:05,677 - INFO - 127.0.0.1 - - [22/Jul/2025 00:02:05] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-22 00:02:07,610 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-22 00:02:08,752 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-22 00:02:09,879 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-22 00:02:11,098 - INFO - ====== WebDriver manager ======
+2025-07-22 00:02:13,506 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:13,691 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:13,853 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:14,262 - INFO - WebDriver version 138.0.7204.157 selected
+2025-07-22 00:02:14,267 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/win32/chromedriver-win32.zip
+2025-07-22 00:02:14,268 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.157/win32/chromedriver-win32.zip
+2025-07-22 00:02:14,310 - INFO - Driver downloading response is 200
+2025-07-22 00:02:15,769 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:16,134 - INFO - Driver has been saved in cache [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157]
+2025-07-22 00:02:29,247 - INFO - ====== WebDriver manager ======
+2025-07-22 00:02:30,664 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:30,832 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:30,992 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-22 00:02:42,727 - INFO - ====== WebDriver manager ======
+2025-07-22 00:02:44,064 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:44,227 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:44,374 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-22 00:02:56,697 - INFO - ====== WebDriver manager ======
+2025-07-22 00:02:58,019 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:58,181 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:02:58,326 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-22 00:03:10,443 - INFO - ====== WebDriver manager ======
+2025-07-22 00:03:11,771 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:03:11,913 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:03:12,066 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-22 00:03:25,943 - INFO - Input: cozy warmth and comfort — burnt orange, soft cream, deep brown, and golden yellow. fireplace glow, warm blankets, coffee cups, reading nooks, and peaceful evenings.. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['brown', 'deep brown', 'golden yellow', 'orange', 'soft cream', 'yellow'], 'negated_colors': [], 'visuals': ['cozy warmth and comfort', 'fireplace glow', 'warm blankets', 'coffee cups', 'reading nooks', 'and peaceful\xa0evenings..'], 'patterns': []}
+2025-07-22 00:03:25,945 - INFO - 127.0.0.1 - - [22/Jul/2025 00:03:25] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-22 00:11:44,929 - INFO - 127.0.0.1 - - [22/Jul/2025 00:11:44] "OPTIONS /analyze_emotion HTTP/1.1" 200 -
+2025-07-22 00:11:46,173 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-22 00:11:47,196 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-22 00:11:50,402 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-22 00:11:51,329 - INFO - ====== WebDriver manager ======
+2025-07-22 00:11:52,777 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:11:52,941 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:11:53,098 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-22 00:12:04,819 - INFO - ====== WebDriver manager ======
+2025-07-22 00:12:06,175 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:12:06,338 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:12:06,493 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-22 00:12:17,982 - INFO - ====== WebDriver manager ======
+2025-07-22 00:12:19,346 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:12:19,523 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:12:19,689 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-22 00:12:30,836 - INFO - ====== WebDriver manager ======
+2025-07-22 00:12:32,211 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:12:32,359 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:12:32,527 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-22 00:12:43,838 - INFO - ====== WebDriver manager ======
+2025-07-22 00:12:45,250 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:12:45,410 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-22 00:12:45,579 - INFO - Driver [C:\Users\dhruv\.wdm\drivers\chromedriver\win64\138.0.7204.157\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-22 00:12:59,476 - INFO - Input: cozy warmth and comfort — burnt orange, soft cream, deep brown, and golden yellow. fireplace glow, warm blankets, coffee cups, reading nooks, and peaceful evenings.. | Source: Keyword Match | Mapped: PEACE/SERENITY | Parsed: {'colors': ['brown', 'deep brown', 'golden yellow', 'orange', 'soft cream', 'yellow'], 'negated_colors': [], 'visuals': ['cozy warmth and comfort', 'fireplace glow', 'warm blankets', 'coffee cups', 'reading nooks', 'and peaceful\xa0evenings..'], 'patterns': []}
+2025-07-22 00:12:59,477 - INFO - 127.0.0.1 - - [22/Jul/2025 00:12:59] "POST /analyze_emotion HTTP/1.1" 200 -
+2025-07-22 00:29:38,183 - INFO -  * Detected change in 'C:\\Users\\dhruv\\OneDrive\\Desktop\\Computer Science Engineering\\Adobe_Express-Hackathon\\Adobe_Express-Hackathon\\Mood-Match\\backend\\app.py', reloading
+2025-07-22 00:29:39,840 - INFO -  * Restarting with stat
+2025-07-22 00:30:08,716 - WARNING -  * Debugger is active!
+2025-07-22 00:30:08,722 - INFO -  * Debugger PIN: 605-192-765
