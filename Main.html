@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mood Match</title>
+  <link rel="stylesheet" href="Main.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Gilda+Display&family=Poppins:wght@300;500;600;800&display=swap"
+    rel="stylesheet" />
+  <style>
+    /* Moodboard Display Styles */
+    .moodboard-result {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      border-radius: 25px;
+      padding: 40px;
+      margin: 30px auto;
+      max-width: 900px;
+      color: white;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+      animation: slideUp 0.8s ease-out;
+    }
+
+    .moodboard-result h2 {
+      text-align: center;
+      font-size: 2.5em;
+      margin-bottom: 10px;
+      font-family: 'Gilda Display', serif;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    .emotion-badge {
+      background: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(10px);
+      border-radius: 50px;
+      padding: 15px 30px;
+      margin: 20px auto;
+      text-align: center;
+      max-width: fit-content;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+    }
+
+    .emotion-badge h3 {
+      margin: 0;
+      font-size: 1.8em;
+      font-weight: 600;
+    }
+
+    .emotion-badge p {
+      margin: 5px 0 0 0;
+      opacity: 0.9;
+      font-size: 1.1em;
+    }
+
+    .moodboard-showcase {
+      background: white;
+      border-radius: 20px;
+      padding: 30px;
+      margin: 25px 0;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    }
+
+    .moodboard-image {
+      width: 100%;
+      max-width: 650px;
+      height: auto;
+      border-radius: 15px;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+      transition: transform 0.3s ease;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .moodboard-image:hover {
+      transform: scale(1.02);
+    }
+
+    .design-details {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin: 25px 0;
+    }
+
+    .detail-card {
+      background: rgba(255, 255, 255, 0.15);
+      backdrop-filter: blur(10px);
+      border-radius: 15px;
+      padding: 20px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .detail-card h4 {
+      margin: 0 0 15px 0;
+      font-size: 1.3em;
+      font-weight: 600;
+      color: #fff;
+    }
+
+    .detail-card p {
+      margin: 8px 0;
+      line-height: 1.5;
+      opacity: 0.95;
+    }
+
+    .color-preview {
+      display: flex;
+      gap: 10px;
+      margin-top: 10px;
+      flex-wrap: wrap;
+    }
+
+    .color-swatch {
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      border: 2px solid white;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    .action-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 30px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      padding: 15px 30px;
+      border: none;
+      border-radius: 30px;
+      font-size: 1.1em;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      text-decoration: none;
+      display: inline-block;
+      text-align: center;
+    }
+
+    .btn-download {
+      background: #ff6b6b;
+      color: white;
+      box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
+    }
+
+    .btn-download:hover {
+      background: #ff5252;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(255, 107, 107, 0.6);
+    }
+
+    .btn-new {
+      background: #4ecdc4;
+      color: white;
+      box-shadow: 0 4px 15px rgba(78, 205, 196, 0.4);
+    }
+
+    .btn-new:hover {
+      background: #45b7aa;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(78, 205, 196, 0.6);
+    }
+
+    .loading-state {
+      text-align: center;
+      padding: 60px 20px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      border-radius: 25px;
+      margin: 30px auto;
+      max-width: 600px;
+      color: white;
+    }
+
+    .loading-state h3 {
+      font-size: 1.8em;
+      margin-bottom: 15px;
+      font-family: 'Gilda Display', serif;
+    }
+
+    .loading-state p {
+      font-size: 1.1em;
+      opacity: 0.9;
+      margin-bottom: 30px;
+    }
+
+    .spinner {
+      border: 4px solid rgba(255, 255, 255, 0.3);
+      border-top: 4px solid white;
+      border-radius: 50%;
+      width: 50px;
+      height: 50px;
+      animation: spin 1s linear infinite;
+      margin: 0 auto;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    @keyframes slideUp {
+      from {
+        opacity: 0;
+        transform: translateY(50px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* Mobile responsiveness */
+    @media (max-width: 768px) {
+      .moodboard-result {
+        margin: 20px 10px;
+        padding: 25px;
+      }
+      
+      .design-details {
+        grid-template-columns: 1fr;
+      }
+      
+      .action-buttons {
+        flex-direction: column;
+        align-items: center;
+      }
+      
+      .btn {
+        width: 200px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="page-wrapper">
+    <div class="overlay-container">
+      <div class="header-bar">
+        <h1 class="title">Mood Match</h1>
+        <a href="Home.html" class="back-button">
+          <img src="Images/back.svg" alt="Back to Home" />
+        </a>
+      </div>
+      <div class="generator-box">
+        <h2 class="subtitle">Generate Your Emotion-Inspired Moodboard</h2>
+        <p class="description">
+          Describe your emotion or idea to get a moodboard tailored by AI, with visuals, fonts, and color harmony built
+          to match.
+        </p>
+        <textarea class="input-box" placeholder="Enter your feelings or ideas here......"></textarea>
+        <button class="generate-btn">Generate</button>
+      </div>
+
+      <footer class="footer">
+        <hr class="separator" />
+        <div class="footer-text">
+          <p>Thanks for exploring MoodMatch</p>
+          <p>Built with Love at Adobe Express Add ons</p>
+        </div>
+        <div class="team">
+          <p class="team-member">Chahat Saini — UI/UX + Frontend + Support AI/ML</p>
+          <p class="team-member">Dhruv Sharma — AI + Backend</p>
+          <p class="team-member">Yashika — ML</p>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <script>
+    document.querySelector('.generate-btn').addEventListener('click', async () => {
+      const inputBox = document.querySelector('.input-box');
+      const userText = inputBox.value.trim();
+
+      if (!userText) {
+        alert("Please enter some text first!");
+        return;
+      }
+
+      try {
+        // Show loading state
+        showLoadingState();
+
+        const response = await fetch('http://127.0.0.1:5000/analyze_emotion', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ text: userText })
+        });
+
+        if (!response.ok) {
+          throw new Error("Failed to fetch data from backend");
+        }
+
+        const data = await response.json();
+        console.log('Response data:', data);
+
+        // Display the moodboard
+        displayMoodboard(data);
+
+      } catch (error) {
+        console.error('Error:', error);
+        hideLoadingState();
+        alert('Error generating moodboard: ' + error.message);
+      }
+    });
+
+    function showLoadingState() {
+      const container = document.querySelector('.overlay-container');
+      const loadingHtml = `
+        <div class="loading-state">
+          <h3>✨ Creating Your Perfect Moodboard</h3>
+          <p>Our AI is analyzing your emotions and curating beautiful visuals from Pinterest...</p>
+          <div class="spinner"></div>
+        </div>
+      `;
+      
+      // Insert after generator box
+      const generatorBox = document.querySelector('.generator-box');
+      generatorBox.insertAdjacentHTML('afterend', loadingHtml);
+    }
+
+    function hideLoadingState() {
+      const loadingState = document.querySelector('.loading-state');
+      if (loadingState) {
+        loadingState.remove();
+      }
+    }
+
+    function displayMoodboard(data) {
+      hideLoadingState();
+      
+      const moodboardHtml = `
+        <div class="moodboard-result">
+          <h2>🎨 Your Personalized Moodboard</h2>
+          
+          <div class="emotion-badge">
+            <h3>${data.emotion || data.mapped_category}</h3>
+            <p>${data.source || 'AI Detection'}</p>
+          </div>
+
+          <div class="moodboard-showcase">
+            <img src="${data.moodboard_url}" alt="Generated Moodboard" class="moodboard-image" />
+          </div>
+
+          <div class="design-details">
+            <div class="detail-card">
+              <h4>🎨 Color Palette</h4>
+              <p>${Array.isArray(data.design?.colors) ? data.design.colors.join(', ') : 'Emotion-matched colors'}</p>
+              ${data.design?.colors ? createColorSwatches(data.design.colors) : ''}
+            </div>
+            
+            <div class="detail-card">
+              <h4>🔤 Typography</h4>
+              <p><strong>Headings:</strong> ${data.design?.fonts?.headings || 'Custom Font'}</p>
+              <p><strong>Body:</strong> ${data.design?.fonts?.body_text || 'Readable Font'}</p>
+              <p><strong>Accent:</strong> ${data.design?.fonts?.highlight_text || 'Decorative Font'}</p>
+            </div>
+            
+            <div class="detail-card">
+              <h4>🎭 Style Elements</h4>
+              <p><strong>Pattern:</strong> ${data.design?.pattern || 'Emotion-based pattern'}</p>
+              <p><strong>Layout:</strong> ${data.design?.layout_style?.archetype || 'Custom layout'}</p>
+              <p><strong>Mood:</strong> ${data.emotion || data.mapped_category}</p>
+            </div>
+          </div>
+
+          <div class="action-buttons">
+            <button onclick="downloadMoodboard('${data.moodboard_url}')" class="btn btn-download">
+              📥 Download Moodboard
+            </button>
+            <button onclick="generateNew()" class="btn btn-new">
+              🔄 Generate New
+            </button>
+          </div>
+        </div>
+      `;
+      
+      // Insert after generator box
+      const generatorBox = document.querySelector('.generator-box');
+      
+      // Remove any existing moodboard
+      const existingMoodboard = document.querySelector('.moodboard-result');
+      if (existingMoodboard) {
+        existingMoodboard.remove();
+      }
+      
+      generatorBox.insertAdjacentHTML('afterend', moodboardHtml);
+      
+      // Scroll to moodboard
+      document.querySelector('.moodboard-result').scrollIntoView({ 
+        behavior: 'smooth', 
+        block: 'start' 
+      });
+    }
+
+    function createColorSwatches(colors) {
+      if (!Array.isArray(colors)) return '';
+      
+      const swatches = colors.slice(0, 5).map(color => {
+        const colorValue = typeof color === 'object' ? color.hex : color;
+        return `<div class="color-swatch" style="background-color: ${colorValue}"></div>`;
+      }).join('');
+      
+      return `<div class="color-preview">${swatches}</div>`;
+    }
+
+    function downloadMoodboard(url) {
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = `moodboard-${Date.now()}.png`;
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+
+    function generateNew() {
+      // Remove existing moodboard
+      const existingMoodboard = document.querySelector('.moodboard-result');
+      if (existingMoodboard) {
+        existingMoodboard.remove();
+      }
+      
+      // Clear input and focus
+      const inputBox = document.querySelector('.input-box');
+      inputBox.value = '';
+      inputBox.focus();
+      
+      // Scroll back to input
+      document.querySelector('.generator-box').scrollIntoView({ 
+        behavior: 'smooth', 
+        block: 'center' 
+      });
+    }
+  </script>
+</body>
+
+</html>
