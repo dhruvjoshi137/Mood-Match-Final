@@ -1,8 +1,11 @@
 [phases.setup]
-nixPkgs = ["python39", "pip"]
+nixPkgs = ["python311", "pip"]
 
 [phases.install]
-cmds = ["pip install -r backend/requirements.txt"]
+cmds = [
+  "pip install -r backend/requirements.txt",
+  "python -m nltk.downloader vader_lexicon punkt stopwords"
+]
 
 [start]
 cmd = "cd backend && python app.py"
