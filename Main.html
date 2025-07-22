@@ -283,7 +283,7 @@
         // Show loading state
         showLoadingState();
 
-        const response = await fetch('http://127.0.0.1:5000/analyze_emotion', {
+        const response = await fetch('https://mood-match-ai-e84a7a0d8c6f.herokuapp.com/analyze_emotion', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json'
