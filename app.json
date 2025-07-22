@@ -1,0 +1,40 @@
+{
+  "name": "Mood Match AI",
+  "description": "AI-powered emotion detection and moodboard generation app",
+  "repository": "https://github.com/dhruvjoshi137/Mood-Match-Final",
+  "logo": "https://raw.githubusercontent.com/dhruvjoshi137/Mood-Match-Final/main/Images/logo.png",
+  "keywords": [
+    "ai",
+    "emotion-detection",
+    "moodboard",
+    "pinterest",
+    "flask",
+    "machine-learning"
+  ],
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "env": {
+    "FLASK_ENV": {
+      "description": "Flask environment",
+      "value": "production"
+    },
+    "PYTHONPATH": {
+      "description": "Python path for backend modules",
+      "value": "backend"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+  "addons": [],
+  "scripts": {
+    "postdeploy": "echo 'Deployment completed successfully!'"
+  }
+}
