@@ -12,5 +12,8 @@ torch>=1.13.0
 transformers>=4.21.0
 datasets>=2.5.0
 spacy>=3.4.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+pandas>=1.5.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
 gunicorn==21.2.0
